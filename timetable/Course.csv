@@ -1,0 +1,11 @@
+ID,Code,Name,Lecturer ID,Number of students,Duration (Hours )
+1,C1,Introduction to Programming ,1,50,2
+2,C2,Database Management Systems,2,50,2
+3,C3,Mathematics for Computing,3,50,2
+4,C4,Computer Networks  ,3,50,3
+5,C5,Computer Fundamentals  ,4,50,2
+6,D1,Data structures     ,3,30,2
+7,D2,Internet Technology      ,4,30,3
+8,D3,Computer Algorithms     ,1,30,2
+9,D4,Statistics  ,3,30,2
+10,D5,Programming Project ,4,30,3
